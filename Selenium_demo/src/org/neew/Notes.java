@@ -26,5 +26,6 @@ public class Notes {
 		driver.findElement(By.xpath("(//input)[last()]")).click();
 		
 	}
+	system.out.println("demo");
 
 }
